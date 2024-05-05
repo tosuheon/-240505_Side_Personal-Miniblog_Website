@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-240505_Side_Personal-Miniblog_Website/static/css/main.49fb639f.css",
+    "main.js": "/-240505_Side_Personal-Miniblog_Website/static/js/main.fa276fcd.js",
+    "index.html": "/-240505_Side_Personal-Miniblog_Website/index.html",
+    "main.49fb639f.css.map": "/-240505_Side_Personal-Miniblog_Website/static/css/main.49fb639f.css.map",
+    "main.fa276fcd.js.map": "/-240505_Side_Personal-Miniblog_Website/static/js/main.fa276fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49fb639f.css",
+    "static/js/main.fa276fcd.js"
+  ]
+}
